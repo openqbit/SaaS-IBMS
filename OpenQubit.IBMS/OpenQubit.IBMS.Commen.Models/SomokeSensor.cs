@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OpenQbit.IBMS.Common.Models
+namespace OpenQubit.IBMS.Commen.Models
 {
-    class Class2
+    public class SomokeSensor
     {
+        publu
     }
 }

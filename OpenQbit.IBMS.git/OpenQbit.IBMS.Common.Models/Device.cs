@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace OpenQbit.IBMS.Common.Models
 {
-    public class Class1
+    public class Device
     {
+        public int ID { get; set; }
+        public String type { get; set; }
+        public String value { get; set; }
     }
 }

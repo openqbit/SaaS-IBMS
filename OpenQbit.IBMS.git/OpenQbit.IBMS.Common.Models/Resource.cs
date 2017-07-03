@@ -9,6 +9,6 @@ namespace OpenQbit.IBMS.Common.Models
     public class Resource
     {
         public int Id { set; get; }
-        public string Type { set; get; }
+        public String Type { set; get; }
     }
 }

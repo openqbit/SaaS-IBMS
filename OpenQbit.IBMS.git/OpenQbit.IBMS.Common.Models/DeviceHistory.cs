@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace OpenQbit.IBMS.Common.Models
 {
-    class DeviceHistory
+    public class DeviceHistory
     {
+        public int HistoryID { set; get; }
+        public DateTime Date { set; get; }
+        public DateTime Time { set; get; }
+        
+
     }
 }

@@ -8,5 +8,8 @@ namespace OpenQbit.IBMS.Common.Models
 {
     public class ResourceDevice
     {
+       public virtual int DeviceID { set; get; }
+       public virtual int ResourceID { set; get; }
+        
     }
 }

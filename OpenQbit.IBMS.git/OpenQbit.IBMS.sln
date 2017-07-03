@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 Common", "0 Common", "{8854CDB0-5F54-4F24-9828-C7774E56BBA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Presentation", "1 Presentation", "{DBAE819B-43C1-497B-8F62-B480FDF129D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Service", "2 Service", "{ADDA0578-1E74-42F1-960C-16F336EA1C61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 BLL", "3 BLL", "{E8743A57-27D2-4016-A96F-4087B6ED9EA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 DataAccess", "4 DataAccess", "{EF0A00BC-1432-49A9-8D86-E547302E15E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 Test", "5 Test", "{3F7577A9-4D84-49BC-BCDC-9B6744EABAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenQbit.IBMS.Common.Models", "OpenQbit.IBMS.Common.Models\OpenQbit.IBMS.Common.Models.csproj", "{B1C6DD6E-2DD9-46CB-9077-765C97C98980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C6DD6E-2DD9-46CB-9077-765C97C98980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C6DD6E-2DD9-46CB-9077-765C97C98980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C6DD6E-2DD9-46CB-9077-765C97C98980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C6DD6E-2DD9-46CB-9077-765C97C98980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B1C6DD6E-2DD9-46CB-9077-765C97C98980} = {8854CDB0-5F54-4F24-9828-C7774E56BBA0}
+	EndGlobalSection
+EndGlobal

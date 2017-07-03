@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 Commen", "0 Commen", "{D347A84A-E506-44AE-B6C3-8C0668BA5FC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Presentation", "1 Presentation", "{DE0B7F54-A755-4E42-8FFD-5B3CE6530ACD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Service", "3 Service", "{3DC103E8-D1BB-4FA7-8FB4-17648012D7B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 BLL", "4 BLL", "{A96D893A-073A-4850-B161-CB734F776C03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 Test", "5 Test", "{FADF8611-516C-4583-B4D0-89BFC31E0BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenQubit.IBMS.Commen.Models", "OpenQubit.IBMS.Commen.Models\OpenQubit.IBMS.Commen.Models.csproj", "{0A956338-8238-400D-A7AE-5C366F9278F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A956338-8238-400D-A7AE-5C366F9278F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A956338-8238-400D-A7AE-5C366F9278F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A956338-8238-400D-A7AE-5C366F9278F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A956338-8238-400D-A7AE-5C366F9278F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A956338-8238-400D-A7AE-5C366F9278F2} = {D347A84A-E506-44AE-B6C3-8C0668BA5FC9}
+	EndGlobalSection
+EndGlobal
